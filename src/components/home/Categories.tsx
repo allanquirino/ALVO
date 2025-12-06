@@ -5,7 +5,7 @@ import { categories } from "@/data/products";
 
 const categoryImages: Record<string, string> = {
   relogios: "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&q=80",
-  acessorios: "https://images.unsplash.com/photo-1509941943102-10c232fc1c32?w=800&q=80",
+  acessorios: "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   bolsas: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800&q=80",
   joias: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
 };

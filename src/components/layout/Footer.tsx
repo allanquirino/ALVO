@@ -9,30 +9,19 @@ export const Footer = () => {
           {/* Brand */}
           <div className="space-y-6">
             <span className="text-2xl font-bold tracking-[0.3em] text-foreground">
-              LUXE
+              ALVO
             </span>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Excelência e sofisticação em cada detalhe. Produtos premium para quem valoriza qualidade.
             </p>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.instagram.com/alvo.men/?hl=pt-br" target="_blank"
                 className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
               >
                 <Instagram className="h-4 w-4" />
               </a>
-              <a
-                href="#"
-                className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
-              >
-                <Facebook className="h-4 w-4" />
-              </a>
-              <a
-                href="#"
-                className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
-              >
-                <Twitter className="h-4 w-4" />
-              </a>
+              
             </div>
           </div>
 
@@ -101,7 +90,7 @@ export const Footer = () => {
         {/* Bottom */}
         <div className="mt-16 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-muted-foreground">
-            © 2024 LUXE. Todos os direitos reservados.
+            © 2025 ALVO. Todos os direitos reservados.
           </p>
           <div className="flex gap-6">
             <Link to="#" className="text-xs text-muted-foreground hover:text-foreground transition-colors">

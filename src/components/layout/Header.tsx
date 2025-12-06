@@ -44,7 +44,7 @@ export const Header = () => {
               whileHover={{ letterSpacing: "0.4em" }}
               transition={{ duration: 0.3 }}
             >
-              LUXE
+              ALVO
             </motion.span>
           </Link>
 

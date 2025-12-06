@@ -47,7 +47,7 @@ export const Hero = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           <span className="inline-block px-4 py-2 mb-8 text-xs font-medium tracking-[0.3em] text-primary border border-primary/30 rounded-full bg-primary/5">
-            COLEÇÃO 2024
+            COLEÇÃO 2025
           </span>
         </motion.div>
 
